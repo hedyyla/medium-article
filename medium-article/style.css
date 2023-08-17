@@ -1,0 +1,43 @@
+.banner {
+  background-image: url("https://images.unsplash.com/photo-1682685797366-715d29e33f9d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2340&q=80tps://unsplash.com/photos/AC3T7tvwPrY");
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  padding: 150px 0px;
+  border: none;
+}
+body {
+  font-family:'Courier New', Courier, monospace;
+  font-size: 18px;
+  margin: 0;
+}
+h1 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 40px;
+  color:rgb(163, 140, 112);
+  display: block;
+  padding-left: 10px;
+}
+h2 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 24px;
+  color:rgb(235, 226, 214);
+  padding-left: 10px;
+}
+h3 {
+  font-family:'Courier New', Courier, monospace;
+  color:rgb(163, 140, 112);
+}
+a {
+  text-decoration: none;
+  background-color: rgb(235, 226, 214);
+  padding: 5px;
+  color:rgb(130, 103, 70);
+  transition: 300ms;
+}
+a:hover {
+  color:rgb(249, 247, 244);
+}
+.article-body-1, .article-body-2, .article-body-3 {
+  margin: 8px;
+}
